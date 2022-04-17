@@ -1,0 +1,1 @@
+URLS = ['https://ih1.redbubble.net/image.3067696797.1541/st,small,507x507-pad,600x600,f8f8f8.jpg', 'https://i.pinimg.com/736x/a4/0b/01/a40b01172b2f751fef7bcd2294af9dfd.jpg', 'https://m.media-amazon.com/images/I/51r00awYspL.jpg']
